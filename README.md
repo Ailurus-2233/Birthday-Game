@@ -1,2 +1,2 @@
 # Birthday-Game
- An android Game with unity for my mom brithday XD
+ An Android Game with unity for my mother's brithday XD
